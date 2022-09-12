@@ -1,0 +1,20 @@
+11:11:27	¬P´Á¤G 2022/07/05 09:31 fen 1cc 10:30 fen 0.5 10:34 fent 0.5 11:12 fen 1cc;  
+11:16:30 CCO !!:17:21
+11:16:52 ANI 11:15:45
+11:21:05 des 5% FGF 1 l
+11:23:24 fentanyl 1 cc
+12:06:00 fen 0.5
+12:54:00 fen 0.5
+12:23:17 FGF 0.35 Des 5% Fi 0.7
+13:24:34 Des 4% FGF 0.35 Fi 0.8
+13:38:38 IABdminal pressure 6-0
+13:39:03 IABP 9
+13:39:36 IABP 0
+13:40:36 Des 3.6 FGF 0.4 Acetamo 1g 
+13:50:00 Morphine 2 mg
+14:02:00 morphine 1 mg
+14:09:00 morphine 1 mg
+14:13:34 off des FGF 0.4
+14:25:02 FGF 10 l  sugamede 200
+14:26:32 asleep
+14:27:33 awake

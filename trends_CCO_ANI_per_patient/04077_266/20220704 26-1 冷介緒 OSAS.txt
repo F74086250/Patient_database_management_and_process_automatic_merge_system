@@ -1,0 +1,27 @@
+08:42:43	¬P´Á¤@ 2022/07/04 CCO 08:47:07 lidocaine 2 cc  
+08:55:54 Propofol 3 alfent 30 
+09:00:00 Propofol 3.5 + rocuronium
+09:50:56 on NG
+09:54:07 NG made ventilation fail
+09:55:42 re on NG
+09:56:24 PEEP to 7
+11:21:45 alf 40
+12:32:47 off propofol and alf
+12:35:00 morphine 2 mg Aceta 1 g
+12:39:26 Ce 1.44 Alf 36.6 des 7.8 FGF 2.0
+12:46:00 keto 30 mg
+12:58:48 Ce Propofol 0.8 FE Des 5%
+12:54:00 Gnanisetron 1.5 mg
+12:59:00 morphine 1 mg
+13:00:24 
+13:03:52 Fi 0.6 FGF 0.35 Des off
+13:06:29 Ce propofol 0.71
+13:15:00 des 7.8 FGF 1 liter
+13:31:03 Tongue base spray lidocaine 15 puff
+13:36:59 sugamedex 200
+13:38:32 FGF 10 
+13:40:08 asleep
+13:41:58 pupil 1 mm asleep
+13:42:30 ANI 13:41:03
+13:43:15
+13:46:09 open eyes

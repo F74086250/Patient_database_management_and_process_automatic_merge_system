@@ -1,0 +1,56 @@
+08:25:11	星期五 2022/05/27
+08:56:25 ANI 08:54:38
+08:57:07 09:01:22 CCO
+09:05:09 CE propofol 3 Alf 30
+09:07:28 asleep Bil TAP block
+09:38:00 leg elevation
+09:50:58 TURB
+側躺
+10:00:21 RR10 gp 500 ML
+10:21:39 Rocuronium 20mg
+10:59:18 Rocuronium 20mg
+11:05:58 下刀
+11:09:18alf 40 SPI=70
+11:17:57 打氣
+11:39:53 Roucuronium 20mg
+11:47:15 RR 11
+11:54:36 RR 12
+12:12 Roucuronium20mg
+12:41:12 RR 13
+12:52:32 CO2 16
+12:54:32 Rocuronium 20mg
+13:01:37 RR 14
+13:15:19 CO2 12
+13:30:19 CO2 8
+13:32:47 RR 15
+13:33:59 Rocuronium 20mg
+13:45:07 Off CO2
+13:56:45 RR 14
+14:04:04 RR 13
+14:13:39 Rocuronium 20mg
+14:27:00 LATERAL TO FLAT 原定後腹膜但四點半發現有破
+14:55 Rocuronium 20mg
+15:09:29	星期五 2022/05/27
+15:13:07	Demographic data :2ND START IN CISION PERIUMBLIC
+15:13:52 cco 15:18:09
+15:21:34 Rocuronium 20mg
+15:28:55 CO2 inflation to 12 mmHg sleep watch at middle thorax
+15:32:05 Table down to lowest Head down
+16:50:00 around a puncture hole was found
+17:01:29 alfentanyl 50
+17:21:35 off propofol and alfentanyl 0.001 des 6% FGF 0.45 FiO2 0.7
+17:24:59 Propo CE1.96 alf Ce 44.7
+17:46:16 Ce Propofol 0.93 alf 31.4
+17:54:00 Keto 1 amp IVD
+18::10:02 acetamo 1G
+18:23:34 Ce propofol 0.7:; ALF 22.3
+18:41:13 REMOVE dAVICI
+18:46:26 tABLE 回正 腹腔壓力消氣 deflation =0
+18:52:42 FiO2 12.0 FGF 0.45 Des 4%
+19:21:13 Ce Propofol 0.58 Alf 15.2
+19:32:00  mprphine 2 mg PEEP 8 mmHg
+19:33:07 sugamedex 200
+19:33:47 off des FGF 0.45
+19:37:51 Ce Propofl 0.56 Alf 13.7
+19:42:50 Feet flat FGF 10 lite
+19:44:52 open eyes CPropofol CE 0.54 CE Alf12.7

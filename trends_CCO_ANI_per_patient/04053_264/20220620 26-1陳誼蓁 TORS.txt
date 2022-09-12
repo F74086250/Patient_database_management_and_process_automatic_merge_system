@@ -1,0 +1,23 @@
+08:40:18	星期一 2022/06/20 CCO 08:49:00
+08:46: 00 Propofol 3 + alf 30g
+08:50:00 藥物沒有進入旁插管不夠深，重新開始給藥
+08:51:00 sleepy
+08:58:00 仍可隨指令睜眼+propofol to 3.5
+08:58:20 asleep
+09:44:16  ANI 09:42:00
+09:44:00 on NG to 09:49 but fail
+09:51:00 oral Elevator
+09:56:28 op
+11:44:00 alfentanyl 40
+12:07:47 remove Davici
+12:07:59 off profol and alf Des 6% FGF 0.4
+12:10:02 Propofl 2.85 CE 36.7
+12:14:08 des 7.8% Oraldexon 1AMP
+12:15:22 FGF 2 l  off 12:16 FGF 0.4 Morphine 4 mg IVD
+12:38:11 Ce Propofol 0.85 Alf 22.9
+13:04:37 sugamedex
+13:04:58 Ce propofol 0.61 Alf 17.9
+13:05:39 Des off
+13:08:59 FGF 10 l
+13:11:45 open eye weak
+13:12:31 obey open eyes Ce Propof 0.57 Alf 

@@ -1,0 +1,33 @@
+08:39:11	星期一 2022/04/18 CCO 0845 ANI 0839
+08:41:53start propofol 3 alf 30 lidocaine 3 ml
+08:45:08 slow propofol 3.5
+08:47:52 propofol 4.0
+08:49:49 sleep
+08:50:51 talk propofol 4.5
+08:53:13 asleep
+09:20:09 alf 40 
+09:23:19 FGF 1.5 to 1.0 o2 40% to 70 %
+09:35:01 endo move out 0.8 cm
+09:52:24clean oral cavity
+09:58:02 suture tongue 
+09:58:40 on NG
+10:01:34 alf 50 
+10:10:00 op
+10:02:55 rocuronium 30 mg
+10:42:18 alf 60
+10:49:19 davichi start
+11:02:16 echo examinationj
+11:07:03張口氣張口
+11:10:41 70
+11:38:14 perdipine 0.2 mg 
+11:43:45 perdipine 0.3 
+11:52:12 perdipine 0.2
+12:23:27 perdipine 0.3
+12:25:54 Al-fentanil 70->90
+12:29:11 propofol and alf 0.01 Des 6.0% FGF 0.4 remove Davici
+12:41:16 below drop
+13:59:22 off des FGF 0.8  Propofol 0.62 alf 28.9
+14:02:51 lidocain 4 cc Intratrcheal
+14:03:48 FGF 10 l
+14:05:42 eye popen awake
+14:14:40 fentany 0.5 propofol 5 cc+ lidocaine 1 cc IV for irritation

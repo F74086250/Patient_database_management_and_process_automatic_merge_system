@@ -1,0 +1,17 @@
+08:44:09	¬P´Á¤G 2022/06/21 with TAP 
+08:59:01 fen 0.5 propofol 5 cc 
+09:00:57 asleep
+10:15:00 op
+14:36:23 gransetron 1 mg
+14:39:26 table flat and height
+14:44:18 morphine 1 mg
+14:45:00 Acetamo 1g
+14:46:19 morphine 1 mg
+14:58:50 morphine 1 mg
+15:22:39 off des FGF 0.75
+15:28:05 FGF 10 l
+15:29:54 reverse Neostigmine5amp+ Atropine 0.7
+15:32:49 weak open eyes
+
+15:33:21 CCO 15:32:04 
+15:33:45 ANI 15:32:15

@@ -1,0 +1,22 @@
+08:32:30	¬P´Á¤@ 2022/07/18
+08:46:36 CCO 08:47:25
+08:47:07 ANI 08:46:20
+08:51:24 prop 3 alf 30 start bloody after intubation
+08:55:00 prop 3.5
+08:59:07 propof 4.0
+09:00:31 asleep
+09:33:00 40 ng alf
+09:48:00 on NG
+10:39:58 4.5 propofol
+11:47:39 alfen 50
+11:57:00 5.0 propofol
+12:33:00 acetamo 1g
+12:36:59 off propofol and alfentanyl Sev 2% FGF 0.5 Fi 0.8
+12:38:00 morphine 1
+12:41:00 morphine 1
+
+13:15:00 morphine 1 mg
+13:35:41 off sev suga 200
+13:36:50 FGF 10 l
+13:58:00 morphine 2 mg
+13:40:28 open eyes

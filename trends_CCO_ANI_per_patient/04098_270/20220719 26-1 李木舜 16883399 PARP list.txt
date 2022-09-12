@@ -1,0 +1,42 @@
+08:33:53	星期二 2022/07/19 PARP
+08:39:44 CCO 08:44:04
+08:40:01 ANI : 08:39:11
+08:47:00 lidocaine 3 ml
+08:47:18 propo3 alf 30
+08:53:24 asleep
+10:13:21 op 
+10:16:26  air
+10:18:31  AL-Fentanil 40 
+10:26:21 頭低
+10:37:26  AL-Fentanil  50
+12:16:33  GP 200 ml
+12:42:33  VCV  TV475 RR14
+12::52:36  AL-Fentanil  60
+13:16:54 perdipine 0.1 
+13:29:54 perdipine 0.1
+14:01:48 GP100 ml
+14:13:50 IABP 18 to 123 mmHg
+14:20:21 perdipine 0.2
+14:29:33 perdipine 0.2
+14:35:14 perdipine 0.2
+14:49:48 perdipine 0.2
+14:57:05 perdipine 0.2
+15:10:15 perdipine 0.4
+15:21:37 perdipine 0.2
+15:24:20 Trandate 1 mg
+15:33:16 Trandate 1 mg
+15:33:54 TV500  RR 20
+15:42:38 腹壓上調至16 mmHg
+16:17:27 腹壓下調至 12 mmHg
+17:16:41 Propo AL-fenil  Off 
+                  O2 80%   Flow  0.4 l/min  Sevo 3%
+17:26:04 Acetamol 1 g
+17:31:05 腹壓關  頭平
+17:34:45  Flow  0.6 l/min
+17:51:58  NAHCO3  1 amp morphine 1 mg
+17:53:45 Sevo 2.5 %
+17:56:40  morphine 1 mg
+18:13:49 morphine 2 mg + sev 0
+18:16:02 FGF 10 l
+18:17:39 suga 200
+18:30:00 awake

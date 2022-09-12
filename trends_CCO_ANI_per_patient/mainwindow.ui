@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>922</width>
+    <height>860</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(170, 170, 127);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>10</y>
+      <width>461</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>28</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(0, 170, 0);</string>
+    </property>
+    <property name="text">
+     <string>      Data Combiner</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="have_complete_data_checkBox">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>90</y>
+      <width>291</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(255, 170, 0);</string>
+    </property>
+    <property name="text">
+     <string>Have complete data</string>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="data_list_tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>190</y>
+      <width>881</width>
+      <height>231</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);
+background-color: rgb(85, 170, 255);
+background-color: rgb(255, 255, 127);</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="have_been_merged_checkBox">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>140</y>
+      <width>291</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(255, 170, 0);</string>
+    </property>
+    <property name="text">
+     <string>Have been merged</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="start_pushButton">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>100</y>
+      <width>201</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>24</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 0, 255);</string>
+    </property>
+    <property name="text">
+     <string>START</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="show_pushButton">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>100</y>
+      <width>131</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 0, 255);
+background-color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string>SHOW</string>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="merged_data_list_tableWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>440</y>
+      <width>881</width>
+      <height>311</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(170, 170, 255);</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="display_combine_data_pushButton">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>760</y>
+      <width>221</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 0, 255);
+background-color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string>Display Combine data</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="now_show_patient_information_ComboBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>760</y>
+      <width>221</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>微軟正黑體</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 85, 0);
+selection-color: rgb(255, 255, 255);
+selection-background-color: rgb(0, 85, 0);
+color: rgb(255, 255, 255);</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>922</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
